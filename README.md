@@ -1,11 +1,44 @@
-# Projet_ML_LOUIS_MACCHI_KABIR
+# 🚗 Machine Learning Project — Engine Health Prediction
 
-About Dataset
-The dataset could include various features and measurements related to the engine health of vehicles, such as engine RPM, temperature, pressure, and other sensor data. It may also include metadata on the vehicle, such as make, model, year, and mileage.
+## 📘 Project Overview
+This project explores **predictive maintenance for automotive engines** using machine learning techniques.
 
-Why
-This dataset could be used to develop a predictive maintenance model for automotive engines. By analyzing trends, artificial intelligence could anticipate repair needs, helping owners and mechanics to intervene before a breakdown occurs. This would improve the performance and longevity of engines.
+By analyzing engine data such as **RPM, temperature, pressure**, and other **sensor readings**, the goal is to **anticipate repair needs** before failures occur — improving performance, safety, and vehicle longevity.
 
-Another possible application would be the comparative analysis of the performance of different engines and vehicles. This would allow researchers to evaluate the most effective manufacturers or maintenance strategies that foster innovation in the automotive sector.
+---
 
-by Viny-Paul LOUIS, Nicola MACCHI and Mohamed KABIR - MMN4
+## 📊 About the Dataset
+The dataset includes various features and measurements related to vehicle engine health:
+- **Engine parameters:** RPM, temperature, pressure, etc.  
+- **Vehicle information:** make, model, year, and mileage.
+
+These data enable the development of a **predictive maintenance model**, capable of identifying patterns that precede mechanical issues.
+
+---
+
+## 🎯 Objectives
+- Build a model capable of detecting or predicting **engine anomalies**.  
+- Analyze and visualize key trends in sensor data.  
+- Compare the performance of different ML algorithms.  
+- Provide insights useful for manufacturers and mechanics.
+
+---
+
+## 💡 Why This Project?
+Predictive maintenance helps:
+- **Prevent unexpected breakdowns**  
+- **Reduce maintenance costs**  
+- **Increase engine lifespan**  
+- **Enhance overall vehicle reliability**
+
+Another possible application is the **comparative performance analysis** of different engines and vehicles — supporting innovation and better maintenance strategies in the automotive sector.
+
+---
+
+## 👥 Authors
+**By:**  
+- Viny-Paul LOUIS  
+- Nicola MACCHI  
+- Mohamed KABIR  
+
+*MMN4 — Machine Learning Project 2025*
